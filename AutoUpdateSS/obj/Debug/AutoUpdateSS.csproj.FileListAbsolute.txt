@@ -1,0 +1,10 @@
+C:\Users\sarge\source\repos\AutoUpdateSS\AutoUpdateSS\bin\Debug\AutoUpdateSS.exe.config
+C:\Users\sarge\source\repos\AutoUpdateSS\AutoUpdateSS\bin\Debug\AutoUpdateSS.exe
+C:\Users\sarge\source\repos\AutoUpdateSS\AutoUpdateSS\bin\Debug\AutoUpdateSS.pdb
+C:\Users\sarge\source\repos\AutoUpdateSS\AutoUpdateSS\obj\Debug\AutoUpdateSS.csproj.AssemblyReference.cache
+C:\Users\sarge\source\repos\AutoUpdateSS\AutoUpdateSS\obj\Debug\AutoUpdateSS.Properties.Resources.resources
+C:\Users\sarge\source\repos\AutoUpdateSS\AutoUpdateSS\obj\Debug\AutoUpdateSS.csproj.GenerateResource.cache
+C:\Users\sarge\source\repos\AutoUpdateSS\AutoUpdateSS\obj\Debug\AutoUpdateSS.csproj.CoreCompileInputs.cache
+C:\Users\sarge\source\repos\AutoUpdateSS\AutoUpdateSS\obj\Debug\AutoUpdateSS.exe
+C:\Users\sarge\source\repos\AutoUpdateSS\AutoUpdateSS\obj\Debug\AutoUpdateSS.pdb
+C:\Users\sarge\source\repos\AutoUpdateSS\AutoUpdateSS\obj\Debug\autoUpdate.Form1.resources
